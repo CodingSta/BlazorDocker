@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="/Users/codingstar/Documents/workspaces_Blazor/BlazorDocker/FirstWeb/bin/Debug/net5.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/Users/codingstar/Documents/workspaces_Blazor/BlazorDocker/FirstWeb/obj/Debug/net5.0/scopedcss/bundle/" />
+</StaticWebAssets>
